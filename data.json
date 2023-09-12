@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Get Started 1",
+    "submenu": [
+      {
+        "title": "AI",
+        "link": "#ai"
+      },
+      {
+        "title": "IO",
+        "link": "#io"
+      },
+      {
+        "title": "P",
+        "link": "#p"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Get Started 2",
+    "submenu": [
+      {
+        "title": "Submenu Item 1",
+        "link": "#submenu1"
+      },
+      {
+        "title": "Submenu Item 2",
+        "link": "#submenu2"
+      }
+    ]
+  }
+]

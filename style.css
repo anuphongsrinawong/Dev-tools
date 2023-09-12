@@ -1,0 +1,12 @@
+#sidebar {
+  position: sticky;
+  top: 0;
+  overflow-y: auto;
+  height: calc(100vh - 100px); /* คำนวณความสูงของ Sidebar */
+}
+
+#tab {
+  position: sticky;
+  top: 0;
+  height: calc(100vh - 100px); /* คำนวณความสูงของ Sidebar */
+}
